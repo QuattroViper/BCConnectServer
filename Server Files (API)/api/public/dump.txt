@@ -1,0 +1,23 @@
+array(1) {
+  ["photo"]=>
+  array(5) {
+    ["name"]=>
+    string(30) "Screenshot_20180123-194138.png"
+    ["type"]=>
+    string(9) "image/png"
+    ["tmp_name"]=>
+    string(14) "/tmp/phpt0E5cb"
+    ["error"]=>
+    int(0)
+    ["size"]=>
+    int(1292236)
+  }
+}
+\narray(3) {
+  ["eventID"]=>
+  string(2) "19"
+  ["token"]=>
+  string(32) "bgzva7okscwhx50ol3ihopwfcvy4zopt"
+  ["Description"]=>
+  string(10) "eventImage"
+}

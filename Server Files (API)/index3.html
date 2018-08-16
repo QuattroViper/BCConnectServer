@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<!-- <link rel="icon" href="./images/logo.png" type="image/x-icon"/> -->
+		<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	</head>
+	<body>
+
+		<form id="loginForm" name="signInForm" method="POST" return="false();">
+
+			<div class="container" >
+				<label>Student ID </label>
+				<br />
+				<input class="" placeholder="Student ID" name="txtStudentID" id="studentID" type="text" value="">
+				<br />
+				<label> Password </label>
+				<br />
+				<input class="" placeholder="Password" name="txtPassword" id="password" value="" type="password" >
+				<br />
+				<div class="signin">
+					<input class="" value="Sign In" type="button" name="btnsignIn" id="SignIn" >
+				</div>
+			</div>
+		</form>
+
+	</body>
+</html>
+
+<script>
+	$(document).ready(function(e) {
+		$('#SignIn').click(function() {
+			var studentID = $('#studentID').val();
+			var password = $('#password').val();
+			$.ajax({
+				type : 'GET',
+				//url: './processing/signin.php',   For Deployment only
+				url : 'processing/signin.php?username=' + studentID + '&password=' + password,
+				success : function(data) {
+					var json = $.parseJSON(data);
+					if (json.state === 'success') {
+						alert(json.token);
+						sessionStorage.setItem("token", json.token);
+						window.location.href = "./mainPage.html";
+						// On next page use sessionStorage.getItem("token");
+					} else if (json.state === 'error') {
+						alert('wrong student ID or Password');
+						// For testing only
+						// Show some error message on screen in HTML
+						//$('#gamesSearch').html(data);
+						// Show error message here
+					}
+
+					//alert('success: username='+studentID+'&password='+password);
+				},
+			});
+		});
+	});
+
+	(function($) {
+		$.ajax = function(params) {
+			if (params.url === "processing/signin.php?username=tester&password=test") {
+				params.success('{"state":"success","token":"token12345" }');
+				//return when signin is correct
+			} else if (params.url != "processing/signin.php?username=tester&password=test") {
+				params.success('{"state":"error","token":"" }');
+				//return when signin is false
+			}
+		};
+
+	})(jQuery);
+
+</script>

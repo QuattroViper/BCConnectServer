@@ -1,0 +1,6 @@
+[26-Oct-2017 21:08:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/howldpst/bcofficial.howldevelopment.co.za/index.php on line 3
+[26-Oct-2017 22:19:28 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/signin.php on line 10
+[26-Oct-2017 22:19:28 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/signin.php on line 10
+[26-Oct-2017 22:19:28 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/signin.php on line 11
+[26-Oct-2017 22:19:28 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/signin.php on line 11
+[26-Oct-2017 22:19:28 UTC] PHP Fatal error:  Call to undefined function gettoken() in /home/howldpst/bcofficial.howldevelopment.co.za/signin.php on line 17

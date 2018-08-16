@@ -1,0 +1,935 @@
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 18:40:19 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 18:40:19 UTC] PHP Fatal error:  Class 'error' not found in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 4
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:35:35 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:35:50 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:35:50 UTC] PHP Catchable fatal error:  Argument 1 passed to Closure::{closure}() must be an instance of Request, instance of Slim\Http\Request given in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 2
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:36:20 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:36:20 UTC] PHP Catchable fatal error:  Argument 1 passed to Closure::{closure}() must be an instance of Request, instance of Slim\Http\Request given in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 2
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:37:00 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:37:00 UTC] PHP Catchable fatal error:  Argument 1 passed to Closure::{closure}() must be an instance of Request, instance of Slim\Http\Request given in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 2
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:37:02 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:37:02 UTC] PHP Catchable fatal error:  Argument 1 passed to Closure::{closure}() must be an instance of Request, instance of Slim\Http\Request given in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 2
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:37:34 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:37:34 UTC] PHP Catchable fatal error:  Argument 1 passed to Closure::{closure}() must be an instance of Request, instance of Slim\Http\Request given in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 2
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:37:45 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:37:45 UTC] PHP Catchable fatal error:  Argument 1 passed to Closure::{closure}() must be an instance of Request, instance of Slim\Http\Request given in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 2
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:38:21 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:38:21 UTC] PHP Catchable fatal error:  Argument 1 passed to Closure::{closure}() must be an instance of Request, instance of Slim\Http\Request given in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 2
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:39:42 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:39:42 UTC] PHP Catchable fatal error:  Argument 1 passed to Closure::{closure}() must be an instance of Request, instance of Slim\Http\Request given in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/signin.php on line 2
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:41:11 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:43:13 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:43:15 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:43:23 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:44:45 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:45:00 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:49:59 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 7
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(./fakes.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(): Failed opening './fakes.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 8
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(./functions.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(): Failed opening './functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 9
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(./sql.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(): Failed opening './sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 10
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(./errorHandling.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[29-Dec-2017 19:50:32 UTC] PHP Warning:  include_once(): Failed opening './errorHandling.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 11
+[30-Dec-2017 13:15:46 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 178
+[30-Dec-2017 13:16:00 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 178
+[30-Dec-2017 13:17:08 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 178
+[30-Dec-2017 15:09:32 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:09:39 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:09:41 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:11:02 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:11:11 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:11:25 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:13:36 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:14:55 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:32 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:47 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:48 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:50 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:51 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:54 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:56 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:57 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:16:59 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:17:02 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:17:07 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:18:53 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:19:50 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:21:05 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:22:15 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:26:03 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:26:59 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:27:00 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:27:01 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:27:02 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:27:02 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:27:03 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:27:04 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:30:09 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:30:19 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:32:27 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:32:29 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:32:31 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:33:17 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:33:33 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 15:33:54 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:27:39 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:46:18 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:50:28 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:50:37 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:50:40 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:54:15 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:57:28 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:58:45 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 16:59:33 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 17:14:31 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 17:17:33 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 17:17:40 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 17:17:57 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 17:27:24 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 18:25:27 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 19:11:01 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 19:11:54 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 19:12:18 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 19:14:18 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 19:34:36 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:08:59 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:12:09 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:13:45 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:19:04 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:20:53 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:22:26 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:25:34 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:28:57 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:30:52 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:36:03 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:37:02 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:43:46 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:47:02 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:53:57 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 20:56:20 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:10:33 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:15:37 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:22:26 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:22:32 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:22:39 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:24:00 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:25:38 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:25:40 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:25:45 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:25:51 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:25:57 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:26:00 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:26:07 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:26:16 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:26:19 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:26:38 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:26:43 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:26:47 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:26:53 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:27:02 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:28:06 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[30-Dec-2017 21:28:13 UTC] PHP Fatal error:  Cannot instantiate abstract class Error in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 173
+[31-Dec-2017 20:27:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 244
+[31-Dec-2017 22:53:32 UTC] PHP Fatal error:  getStudentID(): Cannot write property in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/configs/sql.php on line 162
+[01-Jan-2018 11:23:45 UTC] Slim Application Error:
+Type: mysqli_sql_exception
+Code: 1242
+Message: Subquery returns more than 1 row
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/public/configs/sql.php
+Line: 129
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/configs/sql.php(129): mysqli->query(' SELECT COUNT(*...')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php(285): studentIsNiced('1', NULL)
+#2 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Route.php(344): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Route.php(316): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(479): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(26): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[01-Jan-2018 11:23:57 UTC] Slim Application Error:
+Type: mysqli_sql_exception
+Code: 1242
+Message: Subquery returns more than 1 row
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/public/configs/sql.php
+Line: 129
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/configs/sql.php(129): mysqli->query(' SELECT COUNT(*...')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php(285): studentIsNiced('1', NULL)
+#2 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Route.php(344): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Route.php(316): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(479): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(26): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[03-Jan-2018 17:01:38 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:38 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:38 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:38 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:38 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:38 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:46 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:46 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:46 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:46 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:46 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:46 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:54 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:54 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:54 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:54 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:54 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:01:54 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:02:31 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:02:31 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:02:31 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:02:31 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:02:50 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:02:50 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:02:55 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:02:55 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:03:00 UTC] PHP Warning:  require_once(./annoucement.php): failed to open stream: No such file or directory in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[03-Jan-2018 17:03:00 UTC] PHP Fatal error:  require_once(): Failed opening required './annoucement.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 25
+[20-Jan-2018 11:26:45 UTC] PHP Fatal error:  Call to a member function post() on null in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 4
+[23-Jan-2018 21:06:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 246
+[23-Jan-2018 21:11:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 246
+[28-Jan-2018 08:47:45 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php on line 27
+[28-Jan-2018 09:52:47 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 09:54:34 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 09:56:08 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 09:58:34 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 10:00:03 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 10:05:36 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 10:09:51 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 10:10:15 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 10:12:50 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 10:13:07 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 10:36:44 UTC] PHP Fatal error:  Call to undefined function checkBadWords() in /home/howldpst/bcofficial.howldevelopment.co.za/api/public/event.php on line 502
+[28-Jan-2018 15:02:28 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:03:01 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:03:10 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:04:15 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:04:23 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:06:51 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:06:51 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:06:51 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:06:51 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:07:02 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:07:02 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:07:02 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:07:02 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:09:11 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:09:11 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:09:11 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:13:43 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:13:43 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:13:43 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:13:43 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:14:34 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route39')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route39')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route39')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(53): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:15:53 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route38')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route38')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route38')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(31): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:16:23 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route38')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route38')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route38')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(31): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:16:23 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route38')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route38')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route38')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(31): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:16:23 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route38')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route38')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route38')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(31): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:16:24 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route38')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route38')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route38')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(31): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:17:27 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route38')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route38')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route38')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(31): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[28-Jan-2018 15:17:30 UTC] Slim Application Error:
+Type: FastRoute\BadRouteException
+Message: Cannot register two routes matching &quot;/app/version&quot; for method &quot;POST&quot;
+File: /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php
+Line: 55
+Trace: #0 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php(18): FastRoute\DataGenerator\RegexBasedAbstract->addStaticRoute('POST', Array, 'route38')
+#1 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/RouteCollector.php(36): FastRoute\DataGenerator\RegexBasedAbstract->addRoute('POST', Array, 'route38')
+#2 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/app/version', 'route38')
+#3 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/nikic/fast-route/src/functions.php(24): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#4 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(239): FastRoute\simpleDispatcher(Object(Closure), Array)
+#5 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#6 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(549): Slim\Router->dispatch(Object(Slim\Http\Request))
+#7 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(473): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#8 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(370): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/howldpst/bcofficial.howldevelopment.co.za/api/vendor/slim/slim/Slim/App.php(295): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /home/howldpst/bcofficial.howldevelopment.co.za/api/public/index.php(31): Slim\App->run()
+#12 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+

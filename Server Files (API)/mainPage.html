@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<link rel="icon" href="./images/logo.png" type="image/x-icon"/>
+		<title>Belgium Campus</title>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+
+	</head>
+
+	<body>
+		<div class="topnav" id="myTopnav">
+			<div style="padding-left:20px">
+				<a href="#home" class="active">Home</a>
+				<a href="#news">News</a>
+				<a href="#contact">Contact</a>
+				<a href="#about">About</a>
+				<a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+			</div>
+	</body>
+
+</html>
+
+<script>
+	function myFunction() {
+		var x = document.getElementById("myTopnav");
+		if (x.className === "topnav") {
+			x.className += " responsive";
+		} else {
+			x.className = "topnav";
+		}
+	}
+</script>
+
+<script>alert("You token for authentication is: " + sessionStorage.getItem("token"));</script>
